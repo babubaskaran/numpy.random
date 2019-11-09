@@ -1,4 +1,4 @@
-# numpy.random
+# Numpy Random
 # Problem statement
 
 The following assignment concerns the numpy.random package in Python [2]. You are
